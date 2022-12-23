@@ -1,0 +1,4 @@
+com/coinchase/game/CoinChase.java
+ com.coinchase.game.CoinChase
+com/coinchase/game/SoundManager.java
+ com.coinchase.game.SoundManager

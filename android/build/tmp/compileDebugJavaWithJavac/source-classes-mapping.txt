@@ -1,0 +1,11 @@
+com/coinchase/game/R.java
+ com.coinchase.game.R
+ com.coinchase.game.R$color
+ com.coinchase.game.R$drawable
+ com.coinchase.game.R$mipmap
+ com.coinchase.game.R$string
+ com.coinchase.game.R$style
+com/coinchase/game/AndroidLauncher.java
+ com.coinchase.game.AndroidLauncher
+com/coinchase/game/BuildConfig.java
+ com.coinchase.game.BuildConfig

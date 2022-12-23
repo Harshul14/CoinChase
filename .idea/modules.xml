@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CoinChase.iml" filepath="$PROJECT_DIR$/.idea/modules/CoinChase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/CoinChase.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/CoinChase.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/CoinChase.android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/CoinChase.android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/CoinChase.android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android/CoinChase.android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/CoinChase.android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/CoinChase.android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CoinChase.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CoinChase.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CoinChase.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CoinChase.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CoinChase.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CoinChase.core.test.iml" />
+    </modules>
+  </component>
+</project>
